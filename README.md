@@ -1,6 +1,4 @@
 # NewsLub Website
-# b11a12-server-side-AbuBokorSiddik67 
-
 
 Admin_Email= programming@hero.com
 Admin_Pass= Abc@123
